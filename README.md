@@ -9,3 +9,5 @@ Berisi Project-project untuk praktikum mata kuliah MACHINE-LEARNING Ganjil 23/24
 | 07 / 09 / 2023 | WEEK -2 | https://github.com/JenioDwiSetyoFavianGian/MACHINE-LEARNING-2023/tree/main/Praktikum-WEEK2 |
 | 14 / 09 / 2023 | WEEK -3 | https://github.com/JenioDwiSetyoFavianGian/MACHINE-LEARNING-2023/tree/main/Praktikum-WEEK3 |
 | 21 / 09 / 2023 | WEEK -4 | https://github.com/JenioDwiSetyoFavianGian/MACHINE-LEARNING-2023/tree/main/Praktikum-WEEK4 |
+| 28 / 09 / 2023 | WEEK -6 | https://github.com/JenioDwiSetyoFavianGian/MACHINE-LEARNING-2023/tree/main/Praktikum-WEEK6 |
+| 05 / 10 / 2023 | WEEK -7 | https://github.com/JenioDwiSetyoFavianGian/MACHINE-LEARNING-2023/tree/main/Praktikum-WEEK6 |
